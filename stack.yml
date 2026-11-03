@@ -1,5 +1,6 @@
 name: spring-boot
 icon: spring
+docs: https://wodby.com/docs/2.0/stacks/catalog/spring-boot/
 title: Spring Boot
 
 services:
